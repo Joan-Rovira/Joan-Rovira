@@ -1,6 +1,6 @@
     👋 ¡Hola, soy @Joan-Rovira!
 
-    👀 Estoy interesado en discos de ruptura.
+    👀 Estoy interesado en <a href="https://auraiss.com/">disco de ruptura. </a>
 
     🌱 Actualmente estoy aprendiendo...
 
